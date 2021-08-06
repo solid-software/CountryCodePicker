@@ -200,7 +200,6 @@ List<Map> codes = [
   {"name": "Saint Helena", "code": "SH", "dial_code": "+290"},
   {"name": "Saint Kitts and Nevis", "code": "KN", "dial_code": "+1869"},
   {"name": "Saint Lucia", "code": "LC", "dial_code": "+1758"},
-  {"name": "Saint-Martin", "code": "MF", "dial_code": "+590"},
   {"name": "Saint-Pierre-et-Miquelon", "code": "PM", "dial_code": "+508"},
   {
     "name": "Saint Vincent and the Grenadines",
@@ -216,6 +215,8 @@ List<Map> codes = [
   {"name": "Seychelles", "code": "SC", "dial_code": "+248"},
   {"name": "Sierra Leone", "code": "SL", "dial_code": "+232"},
   {"name": "Singapore", "code": "SG", "dial_code": "+65"},
+  {"name": "Sint Maarten (Dutch side)", "code": "SX", "dial_code": "+1721"},
+  {"name": "Sint Maarten (French side)", "code": "MF", "dial_code": "+590"},
   {"name": "Slovensko", "code": "SK", "dial_code": "+421"},
   {"name": "Slovenija", "code": "SI", "dial_code": "+386"},
   {"name": "Solomon Islands", "code": "SB", "dial_code": "+677"},
